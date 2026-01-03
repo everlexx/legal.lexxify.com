@@ -1,4 +1,4 @@
-# [`lexxify.com`](https://lexxify.com)
+# [`legal.lexxify.com`](https://legal.lexxify.com)
 
 ## Repository Structure
 
