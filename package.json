@@ -1,7 +1,7 @@
 {
-	"name": "lexxify.com",
+	"name": "legal.lexxify.com",
 	"version": "0.1.0",
-	"repository": "https://github.com/everlexx/lexxify.com",
+	"repository": "https://github.com/everlexx/legal.lexxify.com",
 	"license": "UNLICIENSED",
 	"private": true,
 	"scripts": {
